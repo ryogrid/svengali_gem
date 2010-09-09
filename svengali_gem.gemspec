@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
      "lib/svengali_gem.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb",
-     "spec/svengali_gem_spec.rb"
+     "spec/svengali_gem_spec.rb",
+     "svengali_gem.gemspec"
   ]
   s.homepage = %q{http://github.com/ryogrid/svengali_gem}
   s.rdoc_options = ["--charset=UTF-8"]
